@@ -1,0 +1,56 @@
+📊 Task 3: Power BI Visualization Dashboard
+This task focuses on building a multi-page interactive dashboard using Power BI based on the SampleSuperstore dataset.
+
+✅ Objectives:
+Transform raw retail data into insightful visual stories
+
+Highlight trends in sales, profit, region, segment, and customer behavior
+
+Use slicers, KPIs, and charts to enable dynamic analysis
+
+📄 Dashboard Pages:
+Overview Dashboard
+
+KPI Cards (Sales, Profit, Quantity, Discount)
+
+Sales by Region (Bar Chart)
+
+Profit by Segment (Donut Chart)
+
+Slicers for Region and Category
+
+Regional Insights
+
+Map of sales by state
+
+Profit by state (Column Chart)
+
+Category-wise sales (Pie Chart)
+
+Slicers for State/Region
+
+Product Performance
+
+Scatter Plot (Profit vs Discount)
+
+Table: Top 10 Products by Profit
+
+KPI: Most Profitable Category
+
+Customer & Orders Dashboard
+
+Donut Chart: Order Share by Category
+
+Table: Top Customers by Purchase
+
+Stacked Column Chart: Sales by Ship Mode
+
+Filters on Region and Segment
+
+🛠️ Tools Used:
+Power BI Desktop
+
+SampleSuperstore.csv
+
+📌 Output:
+An easy-to-use, interactive dashboard designed for business analysts to gain insights into performance across regions, products, and customer segments.
